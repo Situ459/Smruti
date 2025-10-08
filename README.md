@@ -1,0 +1,2 @@
+# Smruti
+My First Repo
